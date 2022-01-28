@@ -12,3 +12,12 @@ The closest airport to the town of Maryville is the "NW Missouri Regional Airpor
 2. Take Hwy 46 or 1st st. into town and take a left on Main st.
 3. Follow Main st. 3 blocks North.
 4. Your destination is on your right on the corner of 4th and Main.
+
+I would definitely recommend trying these items:   
+* Triple Crown Melt
+* Chicken Parm Melt
+
+Additionally the following beers are great:
+* Big Brown
+* Fifty Shade of Hay
+* American Pharoh
