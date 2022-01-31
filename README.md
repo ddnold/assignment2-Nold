@@ -21,3 +21,5 @@ Additionally the following beers are great:
 * Big Brown
 * Fifty Shade of Hay
 * American Pharoh
+
+For additional information about me, check out my **[AboutMe](AboutMe.md)**.
