@@ -23,4 +23,4 @@ The following table includes some sports. These are sports that I have either pl
 
 > When you have something to say, silence is a lie.
 
-- *Jordan Peterson"
+- *Jordan Peterson*
