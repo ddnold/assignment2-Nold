@@ -13,3 +13,14 @@ The following table includes some sports. These are sports that I have either pl
 | Football | Football Field | $200 - $500 |
 | Soccer | Soccer Field | $200 - $500 |
 | Tennis | Tennis Court | $200 - $1000 |
+
+---
+## Favorite Quotes
+
+> Compare yourself to who you were yesterday, not to who someone else is today.
+
+- *Jordan Peterson*
+
+> When you have something to say, silence is a lie.
+
+- *Jordan Peterson"
