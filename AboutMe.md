@@ -27,7 +27,7 @@ The following table includes some sports. These are sports that I have either pl
 
 ---
 ## Rabin-Karp Pattern Searching 
->> The following algorithim hashes the substring you are searching for and takes its length. It then hashes all the substrings of that length and puts them into a table. From there it matches them and returns where the substrings appear in the string. More information can be found [here.](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+>> The following algorithim takes a string and a substring. It hashes the substring you are searching for and takes its length. It then hashes all the substrings of that length from the string and puts them into a table. From there it matches them and returns where the substrings appear in the string. More information can be found [here.](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 
 [source code](https://cp-algorithms.com/string/rabin-karp.html)
 
@@ -55,5 +55,6 @@ The following table includes some sports. These are sports that I have either pl
             occurences.push_back(i);
     }
     return occurences;
-}```
+}
+```
 
